@@ -1,0 +1,21 @@
+#hovers {
+    width: 200px;
+    height: 200px;
+    border:1px solid black;
+    opacity: 0.5;
+}
+
+#hovers h2 {
+    text-align: center;
+}
+
+#hovers:hover {
+    background-color: #000;
+    border: 20px solid pink;
+    color: #fff;
+    background-image: url(../images/image6.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+

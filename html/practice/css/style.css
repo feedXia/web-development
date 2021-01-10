@@ -1,0 +1,21 @@
+#page-title {
+    text-align: center;
+}
+
+#picture-container {
+    width: 400px;
+/*    height: 400px;*/
+    margin: 0 auto;
+    border: 2px solid orange;
+    padding: 20px;
+    background: mediumpurple;
+}
+
+#image {
+    width: 100%;
+}
+
+img#image {
+    border: 2px solid orange;
+    border-radius: 25px;
+}

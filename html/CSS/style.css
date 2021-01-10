@@ -1,0 +1,47 @@
+/******
+p {
+    color:aquamarine;
+    font-weight: bold;
+    font-size: 89px;       
+}
+******/
+
+body{
+    background:gold;
+}
+
+
+h1{
+    color: tomato;
+}
+
+p {
+    color: red;
+}
+
+div p{
+    color:blueviolet;
+}
+
+#first-para {
+    color:yellow;
+}
+
+.first-para {
+    color:lawngreen;
+}
+
+div {
+    border: 5px solid black;
+    background: blue;
+    color: white;
+    width: 70%;
+    float: right;
+    border-radius: 25px;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+div ul {
+    list-style-type: square;
+}

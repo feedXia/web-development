@@ -1,0 +1,10 @@
+#picture-css {
+    width: 2360px;
+    height: 1640px;
+    background-image: url(../images/image3.png);
+    margin: 0 auto;
+}
+
+h1 {
+    color: aliceblue;
+}
