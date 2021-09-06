@@ -8,3 +8,5 @@ This is a brain dump for all my web development work and practices.
 1. Website code (prepare for unfinished code and ideas in various stages of being fleshed out, and LOTS of it!)
 2. Designs & Wireframing
 3. Miscellaneous
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username
